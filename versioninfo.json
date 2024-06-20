@@ -1,0 +1,40 @@
+{
+  "FixedFileInfo": {
+    "FileVersion": {
+      "Minor": 0,
+      "Patch": 58,
+      "Build": 1
+    },
+    "ProductVersion": {
+      "Minor": 0,
+      "Patch": 58,
+      "Build": 1
+    },
+    "FileFlagsMask": "3f",
+    "FileFlags": "00",
+    "FileOS": "040004",
+    "FileType": "01",
+    "FileSubType": "00"
+  },
+  "StringFileInfo": {
+    "Comments": "一个专注于内网穿透的高性能的反向代理应用",
+    "CompanyName": "uuxia tech Co., Ltd",
+    "FileDescription": "frp 是一个专注于内网穿透的高性能的反向代理应用，支持 TCP、UDP、HTTP、HTTPS 等多种协议，且支持 P2P 通信。可以将内网服务以安全、便捷的方式通过具有公网 IP 节点的中转暴露到公",
+    "FileVersion": "v0.58.1",
+    "InternalName": "frpc.exe",
+    "LegalCopyright": "© uuxia.cn 2024.06.20",
+    "LegalTrademarks": "",
+    "OriginalFilename": "frpc.exe",
+    "PrivateBuild": "",
+    "ProductName": "高性能反向代理",
+    "ProductVersion": "v0.58.1",
+    "SpecialBuild": "v0.58.1"
+  },
+  "VarFileInfo": {
+    "Translation": {
+      "LangID": "0804",
+      "CharsetID": "04B0"
+    }
+  },
+  "IconPath": "icon.ico"
+}

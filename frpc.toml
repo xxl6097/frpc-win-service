@@ -1,0 +1,8 @@
+serverAddr = "uuxia.cn"
+serverPort = 6000
+auth.token = "xiaxiaoli1"
+
+webServer.addr = "0.0.0.0"
+webServer.port = 6400
+webServer.user = "admin"
+webServer.password = "het002402"
